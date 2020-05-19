@@ -4,6 +4,8 @@ A very sophisticated yet simple hiring application that hires based on a person'
 It would also develop a new innovative hiring process that bridges the gap of different locations, skills and hobbies, personality, human character, age differences, work profile, job responsibilities etc. and solve a few issues HR and talent recruiters face about compatibility, practicality, job reach and hectic long hiring processes. Which would also prove helpful to candidates build trust around companies , verify the jobs they apply to and work in the domain they can be most productive in with ease. 
 * Technology stack: 
 
+Flutter , Ruby on Rails, Postgresql
+
 * Status: 
 
 * Dependencies:
